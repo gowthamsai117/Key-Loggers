@@ -40,4 +40,4 @@ This keylogger program records and logs keystrokes on a system. It captures keys
 If `pynput` is not included in the `requirements.txt` file, install it manually:
 ```bash
 pip install pynput
-``
+```
