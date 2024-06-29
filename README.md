@@ -1,4 +1,4 @@
-# 4. Keylogger Program
+# Keylogger Program
 
 ## Introduction
 
